@@ -1,0 +1,15 @@
+{
+  "name": "dance_website",
+  "version": "1.0.0",
+  "description": "This is the dance website build using pure pug and Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ganesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
